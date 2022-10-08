@@ -1,6 +1,8 @@
 using ApplicationPractical;
+using ApplicationPractical.Data;
 using ApplicationPractical.Service;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 
@@ -12,25 +14,30 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-//DI Service Interface - Implement
+#region DI Service
 builder.Services.RegisterServices();
-//Authentication with jwt bearer token
-builder.Services.AddAuthentication(x =>
-{
-    x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-    x.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-}).AddJwtBearer(x =>
-{
-    x.RequireHttpsMetadata = false;
-    x.SaveToken = true;
-    x.TokenValidationParameters = new TokenValidationParameters
-    {
-        ValidateIssuerSigningKey = true,
-        IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(builder.Configuration["Jwt:Token"])),
-        ValidateIssuer = false,
-        ValidateAudience = false
-    };
-});
+builder.Services.AddDbContext<ApplicationDbContext>(item => item.UseSqlServer("Data Source=DESKTOP-BRF1SIL\\SQLEXPRESS;Initial Catalog=testproduct;MultipleActiveResultSets=True;Persist Security Info=true;User Id=sa;Password=123456;Connection Timeout=300;"));
+#endregion
+
+#region Authentication
+//builder.Services.AddAuthentication(x =>
+//{
+//    x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+//    x.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+//}).AddJwtBearer(x =>
+//{
+//    x.RequireHttpsMetadata = false;
+//    x.SaveToken = true;
+//    x.TokenValidationParameters = new TokenValidationParameters
+//    {
+//        ValidateIssuerSigningKey = true,
+//        IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(builder.Configuration["Jwt:Token"])),
+//        ValidateIssuer = false,
+//        ValidateAudience = false
+//    };
+//});
+#endregion
+
 builder.Services.AddSingleton<JwtAuthenticationManager>();
 var app = builder.Build();
 
