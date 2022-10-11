@@ -1,0 +1,14 @@
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Data\bin\Debug\net6.0\ApplicationPractical.Data.deps.json
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Data\bin\Debug\net6.0\ApplicationPractical.Data.runtimeconfig.json
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Data\bin\Debug\net6.0\ApplicationPractical.Data.dll
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Data\bin\Debug\net6.0\ApplicationPractical.Data.pdb
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Data\obj\Debug\net6.0\ApplicationPractical.Data.csproj.AssemblyReference.cache
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Data\obj\Debug\net6.0\ApplicationPractical.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Data\obj\Debug\net6.0\ApplicationPractical.Data.AssemblyInfoInputs.cache
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Data\obj\Debug\net6.0\ApplicationPractical.Data.AssemblyInfo.cs
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Data\obj\Debug\net6.0\ApplicationPractical.Data.csproj.CoreCompileInputs.cache
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Data\obj\Debug\net6.0\ApplicationPractical.Data.dll
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Data\obj\Debug\net6.0\refint\ApplicationPractical.Data.dll
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Data\obj\Debug\net6.0\ApplicationPractical.Data.pdb
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Data\obj\Debug\net6.0\ApplicationPractical.Data.genruntimeconfig.cache
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Data\obj\Debug\net6.0\ref\ApplicationPractical.Data.dll

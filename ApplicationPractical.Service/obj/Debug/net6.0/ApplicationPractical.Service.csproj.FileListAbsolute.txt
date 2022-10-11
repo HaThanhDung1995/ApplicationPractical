@@ -1,0 +1,17 @@
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Service\bin\Debug\net6.0\ApplicationPractical.Service.deps.json
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Service\bin\Debug\net6.0\ApplicationPractical.Service.dll
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Service\bin\Debug\net6.0\ApplicationPractical.Service.pdb
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Service\obj\Debug\net6.0\ApplicationPractical.Service.csproj.AssemblyReference.cache
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Service\obj\Debug\net6.0\ApplicationPractical.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Service\obj\Debug\net6.0\ApplicationPractical.Service.AssemblyInfoInputs.cache
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Service\obj\Debug\net6.0\ApplicationPractical.Service.AssemblyInfo.cs
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Service\obj\Debug\net6.0\ApplicationPractical.Service.csproj.CoreCompileInputs.cache
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Service\obj\Debug\net6.0\ApplicationPractical.Service.dll
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Service\obj\Debug\net6.0\refint\ApplicationPractical.Service.dll
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Service\obj\Debug\net6.0\ApplicationPractical.Service.pdb
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Service\obj\Debug\net6.0\ref\ApplicationPractical.Service.dll
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Service\bin\Debug\net6.0\ApplicationPractical.Common.dll
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Service\bin\Debug\net6.0\ApplicationPractical.Data.dll
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Service\bin\Debug\net6.0\ApplicationPractical.Common.pdb
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Service\bin\Debug\net6.0\ApplicationPractical.Data.pdb
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Service\obj\Debug\net6.0\ApplicationPractical.Service.csproj.CopyComplete

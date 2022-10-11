@@ -1,0 +1,15 @@
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Common\bin\Debug\net6.0\ApplicationPractical.Common.deps.json
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Common\bin\Debug\net6.0\ApplicationPractical.Common.dll
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Common\bin\Debug\net6.0\ApplicationPractical.Common.pdb
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Common\obj\Debug\net6.0\ApplicationPractical.Common.csproj.AssemblyReference.cache
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Common\obj\Debug\net6.0\ApplicationPractical.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Common\obj\Debug\net6.0\ApplicationPractical.Common.AssemblyInfoInputs.cache
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Common\obj\Debug\net6.0\ApplicationPractical.Common.AssemblyInfo.cs
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Common\obj\Debug\net6.0\ApplicationPractical.Common.csproj.CoreCompileInputs.cache
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Common\obj\Debug\net6.0\ApplicationPractical.Common.dll
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Common\obj\Debug\net6.0\refint\ApplicationPractical.Common.dll
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Common\obj\Debug\net6.0\ApplicationPractical.Common.pdb
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Common\obj\Debug\net6.0\ref\ApplicationPractical.Common.dll
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Common\bin\Debug\net6.0\ApplicationPractical.Data.dll
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Common\bin\Debug\net6.0\ApplicationPractical.Data.pdb
+E:\ProjectHandMake\ProjectPractical\Api\ApplicationPractical\ApplicationPractical.Common\obj\Debug\net6.0\ApplicationPractical.Common.csproj.CopyComplete
